@@ -1,0 +1,118 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "L1",
+            "request": "launch",
+            "mainClass": "L1",
+            "projectName": "java_bfd90f5d"
+        },
+        {
+            "type": "java",
+            "name": "loop7",
+            "request": "launch",
+            "mainClass": "loop7",
+            "projectName": "java_bfd90f5d"
+        },
+        {
+            "type": "java",
+            "name": "loop6",
+            "request": "launch",
+            "mainClass": "loop6",
+            "projectName": "java_bfd90f5d"
+        },
+        {
+            "type": "java",
+            "name": "loop5",
+            "request": "launch",
+            "mainClass": "loop5",
+            "projectName": "java_bfd90f5d"
+        },
+        {
+            "type": "java",
+            "name": "loop4",
+            "request": "launch",
+            "mainClass": "loop4",
+            "projectName": "java_bfd90f5d"
+        },
+        {
+            "type": "java",
+            "name": "loop3",
+            "request": "launch",
+            "mainClass": "loop3",
+            "projectName": "java_bfd90f5d"
+        },
+        {
+            "type": "java",
+            "name": "loop2",
+            "request": "launch",
+            "mainClass": "loop2",
+            "projectName": "java_bfd90f5d"
+        },
+        {
+            "type": "java",
+            "name": "counter",
+            "request": "launch",
+            "mainClass": "counter",
+            "projectName": "java_bfd90f5d"
+        },
+        {
+            "type": "java",
+            "name": "ex4",
+            "request": "launch",
+            "mainClass": "ex4",
+            "projectName": "java_bfd90f5d"
+        },
+        {
+            "type": "java",
+            "name": "ex3",
+            "request": "launch",
+            "mainClass": "ex3",
+            "projectName": "java_bfd90f5d"
+        },
+        {
+            "type": "java",
+            "name": "ex2",
+            "request": "launch",
+            "mainClass": "ex2",
+            "projectName": "java_bfd90f5d"
+        },
+        {
+            "type": "java",
+            "name": "ex1",
+            "request": "launch",
+            "mainClass": "ex1",
+            "projectName": "java_bfd90f5d"
+        },
+        {
+            "type": "java",
+            "name": "shop",
+            "request": "launch",
+            "mainClass": "shop",
+            "projectName": "java_bfd90f5d"
+        },
+        {
+            "type": "java",
+            "name": "sq",
+            "request": "launch",
+            "mainClass": "sq",
+            "projectName": "java_bfd90f5d"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "input",
+            "projectName": "java_bfd90f5d"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
