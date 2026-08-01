@@ -6,7 +6,7 @@ public class L3 {
         int num = sc.nextInt();
         for(int i=1;i<=10;i++){
             int tab=num*i;
-        }
         System.out.println(num+" x "+i+" = "+ tab);
+        }
     }
 }
