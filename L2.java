@@ -6,7 +6,7 @@ public class L2{
         int fact = 1;
         System.out.println("Enter a number :");
         num = sc.nextInt();
-        for(i=1 ;i<=num ;i++ ){
+        for(int i=1 ;i<=num ;i++ ){
             fact *= i;
         }
         System.out.println("Factorial : "+fact);
