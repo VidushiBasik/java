@@ -1,7 +1,7 @@
 import java.util.*;
 public class L2{
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        try(Scanner sc = new Scanner(System.in)){
         int num;
         int fact = 1;
         System.out.println("Enter a number :");
@@ -10,5 +10,6 @@ public class L2{
             fact *= i;
         }
         System.out.println("Factorial of "+num +" is "+fact);
+        }
     }
 }
