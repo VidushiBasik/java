@@ -1,7 +1,7 @@
 import java.util.*;
 public class L1{
     public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
+        try(Scanner sc = new Scanner(System.in)){
         int num;
         int choice;
         int even=0;
@@ -19,5 +19,6 @@ public class L1{
         } while (choice==1);
             System.out.println("Even sum is "+even);
             System.out.println("Odd sum is "+odd);
+        } 
     }
 }
