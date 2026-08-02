@@ -10,6 +10,6 @@ public class L2{
             fact *= i;
         }
         System.out.println("Factorial of "+num +" is "+fact);
-        }
+    }
     }
 }
