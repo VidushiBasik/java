@@ -1,7 +1,7 @@
 import java.util.*;
 public class ex4 {
     public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
+        try(Scanner sc = new Scanner(System.in)){
         int year = sc.nextInt();
         if (year%4==0){
             if (year%100==0){
@@ -17,5 +17,6 @@ public class ex4 {
         }else{
             System.out.println("The year is not a leap year");
         }
-            }
-    }
+        }
+    }       
+}
